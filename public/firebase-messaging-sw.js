@@ -16,5 +16,3 @@ importScripts('https://www.gstatic.com/firebasejs/4.8.1/firebase-messaging.js');
   };
   firebase.initializeApp(config);
 
-// Retrieve an instance of Firebase Messaging so that it can handle background
-// messages.
